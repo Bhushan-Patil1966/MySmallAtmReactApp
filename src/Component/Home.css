@@ -1,0 +1,47 @@
+.main{
+    background-color: silver;
+    background-image: linear-gradient(silver,rgb(5, 5, 51),rgb(8, 8, 21));
+    width: 100%;
+    translate: 2% 20%;
+    padding: 30px;
+    color:white;
+    height:550px;
+}
+.main2{
+    /* background-color: rgb(5, 5, 34); */
+    background-image: linear-gradient(rgb(8, 8, 21),rgb(5, 5, 51),silver);
+
+    width: 70%;
+    padding: 20px;
+}
+.main2 button{
+    width: 30%;
+}
+.main2 button:hover{
+    background-color: rgb(149, 130, 9);
+}
+.depo{
+    background-image: linear-gradient(rgb(8, 8, 21),rgb(5, 5, 51),silver);
+}
+.depo input{
+    color:white;
+}
+.main3{
+    background-color: silver;
+    background-image: linear-gradient(silver,rgb(5, 5, 51),rgb(8, 8, 21));
+    width: 30%;
+    translate: 120% 20%;
+    padding: 30px;
+    color:white;
+    height:300px;
+}
+.main3 input{
+    padding: 10px;
+    width: 100%;
+    color:white;
+}
+.main3 button{
+    width: 100%;
+    background-color: green;
+}
+
